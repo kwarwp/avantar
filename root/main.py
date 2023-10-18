@@ -1,11 +1,16 @@
 # avantar.root.main.py
+[v_RTO]
+RBO1 = "https://raw.githubusercontent.com/kwarwp/avantar/main/roteiro1/main.py"
+
 [mapa_ROOT.Jc]
+
 local=[0,0]
 tit="Uma aventura!"
 texto="Missão Nova"
 foi=".i.RO1zz0zz1.0.0"
 [mapa0_ROOT]
-Jb = {local=[0,0], tit="Fuja do Tissunami!", texto="Missão Climática", foi=".i.RO1zz0zz1.0.0"}
+xtra_actbio1 = {url=".i.RTO.RBO1.0.0", auto=1, foi=".i.RO1zz0zz1.0.0"}
+Jb = {local=[0,0], tit="Fuja do Tissunami!", texto="Missão Climática", foi=".i.actbio1"}
 Xb = {local=[0,0], img=".i.Missao._AVENTURA.1", x=500, tit="Explorar!", texto="Missão de Exploração", foi=".i.BIOzz0zz1.0.0"}
 Xe = {local=[0,0], x=900, tit="Explorando a Antártida!", texto="Missão de Exploração Antártica", foi=".i.actbio"}
 Ep = {local=[0,1], img=".i.Missao._MAYSA.0", y=400, tit="Busca por suprimentos!", texto="Buscas suprmentos", foi=".i.pint"}

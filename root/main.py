@@ -3,4 +3,4 @@
 local=[0,0]
 tit="Uma aventura!"
 texto="Missão Nova"
-foi=".i.RO1zz0zz1.0.0"}
+foi=".i.RO1zz0zz1.0.0"

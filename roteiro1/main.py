@@ -5,7 +5,7 @@ p_bote = {img=".i.PUZZLE.AdvBo0.4.4", pr=1, foi=".i.ROOTzz0.0.0" , texto = "Cons
 p_esta = {img=".i.PUZZLE.AdvSta.4.4", pr=11, foi=".i.ROOTzz0.0.0" , texto = "Chegou na Estação!", cena=".i.CN._RO1.6", dim=[4,4]}
 p_mar = {img=".i.PUZZLE.KpaMar.4.4", pr=13, foi=".i.ROOTzz0.0.0" , texto = "Atravessou o mar!", cena=".i.CN._RO1.14", dim=[6,5]}
 p_mon = {img=".i.PUZZLE.KpaMon.4.4", pr=12, foi=".i.ROOTzz0.0.0" , texto = "Observou uma montanha!", cena=".i.CN._RO1.8", dim=[5,4]}
-e_fer = {img="https://imgur.com/hOgrOJ5.png", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="px",texto="Você encontrou um peixe!", cena=".i.RO1zz1zz3.1.3"}
+e_fer = {img="https://imgur.com/hOgrOJ5.png", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="px",texto="Você encontrou um peixe!", cena=".i.RO1zz8zz0.1.3"}
 
 Jb = {local=[3,0], tit="Vamos desembarcar do navio", texto="Desembarcar!", foi=".i.bote"}
 Je = {local=[4,1], tit="Vamos até a estação", texto="Estação!", foi=".i.esta"}

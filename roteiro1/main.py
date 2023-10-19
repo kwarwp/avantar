@@ -9,7 +9,7 @@ p_esta = {img=".i.PUZZLE.AdvSta.4.4", pr=11, foi=".i.ROOTzz0.0.0" , texto = "Che
 p_mar = {img=".i.PUZZLE.KpaMar.4.4", pr=13, foi=".i.ROOTzz0.0.0" , texto = "Atravessou o mar!", cena=".i.CN._RO1.14", dim=[6,5]}
 p_mon = {img=".i.PUZZLE.KpaMon.4.4", pr=12, foi=".i.ROOTzz0.0.0" , texto = "Observou uma montanha!", cena=".i.CN._RO1.8", dim=[5,4]}
 e_fer = {img="https://imgur.com/hOgrOJ5.png", foi=".i.ROOTzz0.0.0", put=1, x=200, y=200, tit="px",texto="Você encontrou um peixe!", cena=".i.RO1zz8zz0.1.3"}
-u_pin = {img=".i.RT1.PinCb.4.4", pr=16, foi=".i.ROOTzz0.0.0" , texto = "Observou a fauna!", cena=".i.CN._RO1.4", dim=[2,1]}
+u_pin = {img=".i.RT1.PinCb.4.4", pr=16, foi=".i.ROOTzz0.0.0" , texto = "Observou a fauna!", cena=".i.CN._RO1.4", dim=[3,2]}
 
 Jb = {local=[3,0], tit="Vamos desembarcar do navio", texto="Desembarcar!", foi=".i.bote"}
 Jk = {local=[3,2], img=".i.Missao._DANIELP.1", tit="Observar", texto="Observação da Fauna", foi=".i.pin"}

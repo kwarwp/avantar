@@ -12,7 +12,7 @@ e_fer = {img="https://imgur.com/hOgrOJ5.png", foi=".i.ROOTzz0.0.0", put=1, x=200
 u_pin = {img=".i.RT1.PinCb.4.4", pr=16, foi=".i.ROOTzz0.0.0" , texto = "Observou a fauna!", cena=".i.CN._RO1.4", dim=[2,1]}
 
 Jb = {local=[3,0], tit="Vamos desembarcar do navio", texto="Desembarcar!", foi=".i.bote"}
-Jk = {local=[3,2], img=".i.Missao._DANIELP.1" tit="Observar", texto="Observação da Fauna", foi=".i.pin"}
+Jk = {local=[3,2], img=".i.Missao._DANIELP.1", tit="Observar", texto="Observação da Fauna", foi=".i.pin"}
 Je = {local=[2,1], tit="Vamos até a estação", texto="Estação!", foi=".i.esta"}
 # No texto podemos usar entre chaves a formulação de uma pergunta. O tit é a pergunta, A, B etc são as opções e Z é a resposta certa
 kt = {local=[0,1], tit="Converse comigo!", texto= {tit="Você sabia que a temperatura aqui chega a", A="40º", B="-150º", C="-90º", Z="C" }, foi=".i.esta"}

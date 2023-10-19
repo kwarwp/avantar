@@ -1,6 +1,5 @@
 # avantar.rotgeog.main.py
 [valores_RCN]
-ROG = "https://imgur.com/khohhCw.jpg"
 FOTOGEO = "https://i.imgur.com/QQvvTPK.jpg"
 FOTOGEO2 = "https://i.imgur.com/lfe6XNu.jpg"
 Perf = "https://imgur.com/L65Nj8p.gif"
@@ -9,48 +8,8 @@ MapaSat= "https://imgur.com/Fd25qlz.png"
 Fura = "https://imgur.com/7zxPaYr.png"
 
 [folha_RCN]
-ROG = [4,8]
 FOTOGEO = [1,1]
 FOTOGEO2 = [1,1]
-
-[l_ROG]
-img =".i.RCN._ROG.0"
-index = [4,8]
-local = [["Bernardo O'Higgins-Norte", "Bernardo O'Higgins-Leste", "Bernardo O'Higgins-Sul", "Bernardo O'Higgins-Oeste"] ,
-['Great Wall-Norte', 'Great Wall-Leste', 'Great Wall-Sul', 'Great Wall-Oeste'] ,
-['Mawson-Norte', 'Mawson-Leste', 'Mawson-Sul', 'Mawson-Oeste'] ,
-['McMurdo-Norte', 'McMurdo-Leste', 'McMurdo-Sul', 'McMurdo-Oeste'] ,
-['Mirny-Norte', 'Mirny-Leste', 'Mirny-Sul', 'Mirny-Oeste'] ,
-['Neumayer III-Norte', 'Neumayer III-Leste', 'Neumayer III-Sul', 'Neumayer III-Oeste'] ,
-['Novolazarevskaya-Norte', 'Novolazarevskaya-Leste', 'Novolazarevskaya-Sul', 'Novolazarevskaya-Oeste'] ,
-['Orcadas-Norte', 'Orcadas-Leste', 'Orcadas-Sul', 'Orcadas-Oeste'] ,
-['Palmer-Norte', 'Palmer-Leste', 'Palmer-Sul', 'Palmer-Oeste'] ,
-['Progress-Norte', 'Progress-Leste', 'Progress-Sul', 'Progress-Oeste'] ,
-['Rothera[14]-Norte', 'Rothera[14]-Leste', 'Rothera[14]-Sul', 'Rothera[14]-Oeste'] ,
-['San Martín-Norte', 'San Martín-Leste', 'San Martín-Sul', 'San Martín-Oeste'] ,
-['SANAE IV-Norte', 'SANAE IV-Leste', 'SANAE IV-Sul', 'SANAE IV-Oeste'] ,
-['Scott Base-Norte', 'Scott Base-Leste', 'Scott Base-Sul', 'Scott Base-Oeste'] ,
-['Showa-Norte', 'Showa-Leste', 'Showa-Sul', 'Showa-Oeste'] ,
-['Troll-Norte', 'Troll-Leste', 'Troll-Sul', 'Troll-Oeste'] ,
-['Vernadsky-Norte', 'Vernadsky-Leste', 'Vernadsky-Sul', 'Vernadsky-Oeste'] ,
-['Vostok-Norte', 'Vostok-Leste', 'Vostok-Sul', 'Vostok-Oeste'] ,
-['Zhongshan-Norte', 'Zhongshan-Leste', 'Zhongshan-Sul', 'Zhongshan-Oeste'] ,
-['Amundsen–Scott-Norte', 'Amundsen–Scott-Leste', 'Amundsen–Scott-Sul', 'Amundsen–Scott-Oeste'] ,
-['Arctowski-Norte', 'Arctowski-Leste', 'Arctowski-Sul', 'Arctowski-Oeste'] ,
-['Arrival Heights-Norte', 'Arrival Heights-Leste', 'Arrival Heights-Sul', 'Arrival Heights-Oeste'] ,
-['Artigas-Norte', 'Artigas-Leste', 'Artigas-Sul', 'Artigas-Oeste'] ,
-['Arturo Prat-Norte', 'Arturo Prat-Leste', 'Arturo Prat-Sul', 'Arturo Prat-Oeste'] ,
-['Belgrano II-Norte', 'Belgrano II-Leste', 'Belgrano II-Sul', 'Belgrano II-Oeste'] ,
-['Bellingshausen-Norte', 'Bellingshausen-Leste', 'Bellingshausen-Sul', 'Bellingshausen-Oeste'] ,
-['Bharati-Norte', 'Bharati-Leste', 'Bharati-Sul', 'Bharati-Oeste'] ,
-['Carlini-Norte', 'Carlini-Leste', 'Carlini-Sul', 'Carlini-Oeste'] ,
-['Casey-Norte', 'Casey-Leste', 'Casey-Sul', 'Casey-Oeste'] ,
-['Concordia-Norte', 'Concordia-Leste', 'Concordia-Sul', 'Concordia-Oeste'] ,
-['Davis-Norte', 'Davis-Leste', 'Davis-Sul', 'Davis-Oeste'] ,
-["Dumont d'Urville-Norte", "Dumont d'Urville-Leste", "Dumont d'Urville-Sul", "Dumont d'Urville-Oeste"] ,
-['Eco-Nelson-Norte', 'Eco-Nelson-Leste', 'Eco-Nelson-Sul', 'Eco-Nelson-Oeste'] ,
-['Villa Las Estrellas-Norte', 'Villa Las Estrellas-Leste', 'Villa Las Estrellas-Sul', 'Villa Las Estrellas-Oeste']
-]
 
 [mapa_ROG]
 #cena plano de fundo dim tamanho do quebra cabeça pr é medalha e dif a dificuldade

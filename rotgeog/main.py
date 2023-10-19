@@ -52,8 +52,6 @@ local = [["Bernardo O'Higgins-Norte", "Bernardo O'Higgins-Leste", "Bernardo O'Hi
 ['Villa Las Estrellas-Norte', 'Villa Las Estrellas-Leste', 'Villa Las Estrellas-Sul', 'Villa Las Estrellas-Oeste']
 ]
 
-
-
 [mapa_ROG]
 #cena plano de fundo dim tamanho do quebra cabeça pr é medalha e dif a dificuldade
 p_perf = {img=".i.RCN.Perf.4.4", pr=9, foi=".i.ROGzz2zz2.0.0" , texto = "Perfurou!", cena=".i.RCN._FOTOGEO.1", dim=[3,3]}
